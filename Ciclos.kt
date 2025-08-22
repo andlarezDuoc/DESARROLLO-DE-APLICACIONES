@@ -1,4 +1,4 @@
-#Ejemplo de ciclo con FOR
+#Ejemplo de ciclo con for
 fun main () {
     for (i in 1..20) {
         if (i == 5) {
